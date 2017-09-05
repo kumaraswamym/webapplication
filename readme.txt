@@ -1,1 +1,1 @@
-this is a web application
+this is a webapplication
